@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/goit-26-react-hw-01-components/static/css/main.54adf276.chunk.css",
+    "main.css": "/goit-26-react-hw-01-components/static/css/main.182735c1.chunk.css",
     "main.js": "/goit-26-react-hw-01-components/static/js/main.034bdfc0.chunk.js",
     "main.js.map": "/goit-26-react-hw-01-components/static/js/main.034bdfc0.chunk.js.map",
     "runtime-main.js": "/goit-26-react-hw-01-components/static/js/runtime-main.7128828e.js",
@@ -8,15 +8,15 @@
     "static/js/2.74ba57de.chunk.js": "/goit-26-react-hw-01-components/static/js/2.74ba57de.chunk.js",
     "static/js/2.74ba57de.chunk.js.map": "/goit-26-react-hw-01-components/static/js/2.74ba57de.chunk.js.map",
     "index.html": "/goit-26-react-hw-01-components/index.html",
-    "precache-manifest.fb26a3eb02d5f461b4aca788b9f9c13c.js": "/goit-26-react-hw-01-components/precache-manifest.fb26a3eb02d5f461b4aca788b9f9c13c.js",
+    "precache-manifest.839fbd2065a504fd8e55e71ded69616f.js": "/goit-26-react-hw-01-components/precache-manifest.839fbd2065a504fd8e55e71ded69616f.js",
     "service-worker.js": "/goit-26-react-hw-01-components/service-worker.js",
-    "static/css/main.54adf276.chunk.css.map": "/goit-26-react-hw-01-components/static/css/main.54adf276.chunk.css.map",
+    "static/css/main.182735c1.chunk.css.map": "/goit-26-react-hw-01-components/static/css/main.182735c1.chunk.css.map",
     "static/js/2.74ba57de.chunk.js.LICENSE.txt": "/goit-26-react-hw-01-components/static/js/2.74ba57de.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7128828e.js",
     "static/js/2.74ba57de.chunk.js",
-    "static/css/main.54adf276.chunk.css",
+    "static/css/main.182735c1.chunk.css",
     "static/js/main.034bdfc0.chunk.js"
   ]
 }
