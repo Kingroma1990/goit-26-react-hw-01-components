@@ -1,0 +1,25 @@
+.transaction__history {
+  margin: 0 auto;
+  margin-top: 30px;
+  width: 80%; 
+  border: 2px solid #ada6a6;
+  text-align: center;
+}
+
+.transaction__head {
+  background-color: #16beca;
+  color: #ffffff;
+  text-transform: uppercase;
+  height: 50px;
+}
+th {
+  font-weight: normal;
+  color: #039;
+  padding: 10px 15px;
+}
+td {
+  color: #669;
+  border-top: 1px solid #e8edff;
+  padding: 10px 15px;
+}
+tr:nth-child(2n) {background: #e8edff;}
